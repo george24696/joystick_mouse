@@ -13,7 +13,7 @@ A simple Python script that lets you control your mouse using a joystick with sm
 1. Connect a joystick.
 2. Run the script:
    ```bash
-   python script.py
+   python joytick_mouse.py
    ```
 
 Enjoy!
